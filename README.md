@@ -20,6 +20,4 @@ All issues raised and documented were solved using the Define-Code-Test frame su
 Merged the dataframes into a single dataframe and saved as a csv file 'twitter_archive_master.csv'
 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-"C:\Users\hp\Downloads\dog word cloud.png"
 ![This is an image]("C:\Users\hp\Downloads\dog word cloud.png")
