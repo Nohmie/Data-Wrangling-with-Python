@@ -20,4 +20,5 @@ All issues raised and documented were solved using the Define-Code-Test frame su
 Merged the dataframes into a single dataframe and saved as a csv file 'twitter_archive_master.csv'
 
 
+## 
 ![This is an image](https://github.com/Nohmie/Data-Wrangling-with-Python/blob/main/dog%20word%20cloud.png)
