@@ -9,7 +9,7 @@ An interesting project based on the @WeRateDog Twitter archive for my Udacity Na
 ## Gathering
 In this project, I gathered three different datasets with different formats in three different ways
 * Downloaded the first, 'twitter_archive_enhanced.csv' in the usual traditional way and read it into a pandas dataframe 
-* Programmatically downloaded the second file, 'image_prediction.tsv' from the provided url (https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv) using the Requests library
+* Programmatically downloaded the second file, 'image-prediction.tsv' from the provided url (https://d17h27t6h515a5.cloudfront.net/topher/2017/August/599fd2ad_image-predictions/image-predictions.tsv) using the Requests library
 * Sourced data from Twitter using the Tweepy library to query additional data via the Twitter API, saving it into a txt file 'tweet_json.txt' and read it line by line into a pandas dataframe.
 
 ## Assessing 
