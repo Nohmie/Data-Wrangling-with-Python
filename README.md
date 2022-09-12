@@ -21,4 +21,4 @@ Merged the dataframes into a single dataframe and saved as a csv file 'twitter_a
 
 
 ## 
-![This is an image](https://github.com/Nohmie/Data-Wrangling-with-Python/blob/main/dog%20word%20cloud.png)
+![This is an image](https://github.com/Nohmie/Data-Wrangling-with-Python/blob/main/Dog_WordCloud.png)
