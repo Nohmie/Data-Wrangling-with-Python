@@ -17,7 +17,7 @@ The bulk of the work was done here where i had to visually assess the issues wit
 
 ## Cleaning
 All issues raised and documented were solved using the Define-Code-Test frame such as melting columns, changing datatypes, removing retweets and replies, replacing column values with 'NaN' where necessary, dropping duplicates etc.  
-Merged the dataframes into a single dataframe and saved as a csv file 'twitter_archive_master.csv'
+Merged the dataframes into a single dataframe [twitter_archive_master.csv](https://github.com/Nohmie/Data-Wrangling-with-Python/blob/main/twitter_archive_master.csv)
 
 
 ## 
